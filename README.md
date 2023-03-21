@@ -1,4 +1,4 @@
-![](https://github.com/Vedomant/karpov_courses/blob/22671c9ea5b842089227aaada8b8a87f2bf579b1/2023-03-21_13-04-06.png)
+![](https://github.com/Vedomant/karpov_courses/blob/193869258043154e2b329bafddaa3521206286cb/support_files/2023-03-21_13-04-06.png)
 # karpov_courses
 Проектная деятельность. Здесь практические задания и проекты с моего обучения на karpov_courses. Ссылка: https://karpov.courses/
 
