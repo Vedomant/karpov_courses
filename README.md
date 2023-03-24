@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://GitHub.com/Vedomant/CodeKitchen/stargazers/"><img src="https://img.shields.io/github/stars/Vedomant/CodeKitchen.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars"></a>
+  <a href="https://GitHub.com/Vedomant/CodeKitchen/network/"><img src="https://img.shields.io/github/forks/Vedomant/CodeKitchen.svg?style=social&label=Fork&maxAge=2592000" alt="GitHub forks"></a>
+  <a href="https://GitHub.com/Vedomant/CodeKitchen/watchers/"><img src="https://img.shields.io/github/watchers/Vedomant/CodeKitchen.svg?style=social&label=Watch&maxAge=2592000" alt="GitHub watchers"></a>
+</p>
+
 ![](https://github.com/Vedomant/karpov_courses/blob/193869258043154e2b329bafddaa3521206286cb/support_files/2023-03-21_13-04-06.png)
 # karpov_courses
 Здесь практические задания и проекты с моего обучения на курсе "Аналитик данных" на karpov_courses. Ссылка: https://karpov.courses/
