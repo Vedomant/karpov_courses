@@ -6,7 +6,7 @@
 
 ![](https://github.com/Vedomant/karpov_courses/blob/193869258043154e2b329bafddaa3521206286cb/support_files/2023-03-21_13-04-06.png)
 # karpov_courses
-Здесь практические задания и проекты с моего обучения на курсе "Аналитик данных" на karpov_courses. Ссылка: https://karpov.courses/
+Здесь практические задания и проекты с моего обучения на курсе "Аналитик данных" на [karpov_courses](https://karpov.courses/).
 <br>
 В настоящее время в данном разделе можно посмотреть следующее:
 
